@@ -3,6 +3,33 @@
 This project demonstrates the design and deployment of a secure, scalable, and highly available 3-Tier Web Application on Amazon Web Services (AWS).
 It uses a fully customized VPC with public and private subnets, EC2 instances across multiple Availability Zones, an Application Load Balancer, RDS MySQL, phpMyAdmin, and secure networking components such as NAT Gateway, Route Tables, Security Groups, and a Jump/Bastion Server.
 
+##Screenshot of EC2 Instances 
+<img width="1919" height="881" alt="Screenshot 2025-10-03 202704" src="https://github.com/user-attachments/assets/7d7c95a3-4258-4af0-9c36-d693d9f3906d" />
+
+##Screenshot of RDS Dashboard
+<img width="1919" height="877" alt="Screenshot 2025-10-03 202926" src="https://github.com/user-attachments/assets/909e7c00-d94c-43f3-92db-db3a9365af92" />
+
+##Screenshot of Load balancer
+<img width="1919" height="888" alt="Screenshot 2025-10-03 202811" src="https://github.com/user-attachments/assets/ac61ce17-9eb7-444c-9ace-2bcc88ab5cc8" />
+
+##Screenshot of Jump Server SSH
+<img width="1919" height="877" alt="Screenshot 2025-10-03 202638" src="https://github.com/user-attachments/assets/98a5d33f-29bd-49a2-9f38-aa7db51c3776" />
+
+##Screenshot of Route Tables
+<img width="1919" height="866" alt="Screenshot 2025-10-03 202446" src="https://github.com/user-attachments/assets/b8f45c69-7d8b-4038-acae-68f0f01934f3" />
+
+##Screenshot of VPC Resource Map
+<img width="1919" height="881" alt="Screenshot 2025-10-03 202300" src="https://github.com/user-attachments/assets/dcc461e8-9e1b-41cf-bdc5-43de723252e2" />
+
+##Screenshot of PHP Server Outputs
+<img width="1913" height="1015" alt="Screenshot 2025-09-30 015345" src="https://github.com/user-attachments/assets/1b997fd3-0f70-4349-888e-ea9a49a6df57" />
+<img width="1919" height="1019" alt="Screenshot 2025-09-30 015337" src="https://github.com/user-attachments/assets/27db4076-9960-483c-9044-cf2323b474bd" />
+
+##Screenshot of phpMyAdmin
+<img width="1919" height="1012" alt="Screenshot 2025-09-30 015815" src="https://github.com/user-attachments/assets/bf0a80fb-8062-4819-8eab-20f6418b3cb4" />
+
+
+
 This architecture follows AWS best practices for fault tolerance, high availability, and network isolation.
 Architecture Overview
  Web Tier (Public Subnets)
