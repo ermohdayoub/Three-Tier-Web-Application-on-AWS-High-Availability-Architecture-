@@ -120,3 +120,23 @@ Jump server is placed in a public subnet to enable secure SSH access to:
 3. App Servers → Process PHP Application
 4. App Servers → Connect to RDS
 5. Response → Back to ALB → User
+
+Skills Demonstrated
+ - VPC Design & Subnetting
+ - EC2 Deployment & Configuration
+ - Load Balancer Setup
+ - NAT & IGW configuration
+ - Linux Administration
+ - RDS Database Management
+ - phpMyAdmin Deployment
+ - Route Tables & Security Groups
+ - Multi-AZ Application Architecture
+ - Real-world 3-tier cloud deployment
+
+👨‍💻 Author
+Mohd Ayoub
+AWS & DevOps Engineer
+LinkedIn: (https://www.linkedin.com/in/ermohdayoub)
+
+⭐ If you like this project
+Please give the repository a star ⭐ — it really helps!
