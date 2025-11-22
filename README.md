@@ -27,11 +27,10 @@ It uses a fully customized VPC with public and private subnets, EC2 instances ac
 
 ##Screenshot of phpMyAdmin
 <img width="1919" height="1012" alt="Screenshot 2025-09-30 015815" src="https://github.com/user-attachments/assets/bf0a80fb-8062-4819-8eab-20f6418b3cb4" />
-
-
+<img width="1913" height="1017" alt="Screenshot 2025-10-03 202951" src="https://github.com/user-attachments/assets/099cbed7-5f36-4c90-a987-ef7ee378c55e" />
 
 This architecture follows AWS best practices for fault tolerance, high availability, and network isolation.
-Architecture Overview
+Architecture Overview:
  Web Tier (Public Subnets)
  - Accessible via the internet
  - Hosts the Application Load Balancer (ALB)
